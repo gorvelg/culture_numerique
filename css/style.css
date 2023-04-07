@@ -1,0 +1,98 @@
+/* Général */
+* {
+    box-sizing: border-box;
+}
+:root {
+    --text : black;
+    --link : white;
+    --title: white;
+}
+body {
+   margin: 0;
+   font-family: 'Poppins', sans-serif;
+}
+.wrapper {
+    margin:0 10% ;
+}
+a {
+    padding: 10px;
+    color: var(--link); 
+    text-decoration: none;
+}
+a:hover{
+    color: var(--text);
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+header {
+    display: flex;
+    background-color :#47C9AD;
+    align-items: center;
+}
+header h1 {
+    color: var(--title);
+}
+nav {
+    display: flex;
+}
+
+#logo {
+    width: 80px;
+}
+nav div {
+    display: flex;
+}
+nav div ul {
+    display: flex;
+    align-items: center;
+}
+
+
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+  
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  }
+  
+/* Style the collapsible content. Note: hidden by default */
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;  
+  }
+.content a {
+    color: var(--text);
+}
+
+/* Accueil */
+.article {
+    display: flex;
+}
+.article img {
+    width: 300px;
+}
+.article a {
+    color: var(--text);
+}
+.article div {
+    padding: 15px;
+}
+/* footer */
+footer {
+    display: flex;
+}
