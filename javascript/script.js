@@ -1,14 +1,15 @@
-var coll = document.getElementsByClassName("collapsible");
-var i;
+const collapsibles = document.querySelectorAll(".collapsible");
 
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function () {
+collapsibles.forEach((item) => {
+  item.addEventListener("click", function () {
     this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight) {
-      content.style.maxHeight = null;
+    const content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+      this.querySelector("::after").innerHTML = "+";
     } else {
-      content.style.maxHeight = content.scrollHeight + "px";
+      content.style.display = "block";
+      this.querySelector("::after").innerHTML = "-";
     }
   });
-}
+});

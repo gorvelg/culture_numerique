@@ -34,50 +34,42 @@ header {
 header h1 {
     color: var(--title);
 }
-nav {
-    display: flex;
-}
-
-#logo {
-    width: 80px;
-}
-nav div {
-    display: flex;
-}
-nav div ul {
-    display: flex;
-    align-items: center;
-}
-
-
-/* Style the button that is used to open and close the collapsible content */
-.collapsible {
-    cursor: pointer;
-    width: 100%;
-    border: none;
-    text-align: left;
-    outline: none;
-    font-size: 15px;
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
   }
   
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .collapsible:hover {
+  nav li {
+    margin: 0;
+    padding: 0;
   }
   
-/* Style the collapsible content. Note: hidden by default */
-.content {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 0 18px;
-    background-color: white;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;  
+  nav a {
+    display: block;
+    padding: 10px;
+    background-color: #f2f2f2;
+    color: #333;
+    text-decoration: none;
   }
-.content a {
-    color: var(--text);
-}
+  
+  nav a:hover {
+    background-color: #ddd;
+  }
+  
+  nav .collapsible::after {
+    content: "+";
+    float: right;
+  }
+  
+  nav .content {
+    display: none;
+  }
+  
+  nav .active {
+    display: block;
+  }
+  
 
 /* Accueil */
 .article {
