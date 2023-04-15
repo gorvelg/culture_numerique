@@ -34,6 +34,10 @@
             <h3>Un code épuré et compressé</h3>
             <p>Toujours dans le but de réduire l’impact environnemental et minimiser la quantité de données transférées lors des chargements de page, nous avons optimisé notre code HTML et créé des variables dans notre CSS afin d’éviter les répétitions. De plus, le code a été minimisé avec un outil qui permet de supprimer tous les caractères inutiles.</p>
         </div>
+        <div class="source">
+            <h2>Sources</h2>
+            <li><a href="https://github.com/cnumr/best-practices/tree/main/chapters">Best Practices - Dépot Github</a></li>
+        </div>
     </div>
 
     <!-- Footer -->
