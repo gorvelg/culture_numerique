@@ -22,7 +22,7 @@
     <div class="wrapper">
       <!-- Articles -->
       <div class="article most-recent">
-        <img src="images/article_1.webp" alt="description de la photo" />
+        <img src="images/article_1.webp" alt="cerveau avec des circuits imprimés" />
         <div>
           <h5>Le numérique nous rend-il plus intelligent ?</h5>
           <p>
@@ -37,7 +37,7 @@
       </div>
 
       <div class="article">
-        <img src="images/article_2.webp" alt="description de la photo" />
+        <img src="images/article_2.webp" alt="main verte numérique" />
         <div>
           <h5>
             Le numérique permet-il de réduire nos impacts environnementaux ?
@@ -53,7 +53,7 @@
         </div>
       </div>
       <div class="article">
-        <img src="images/article_3.webp" alt="description de la photo" />
+        <img src="images/article_3.webp" alt="robot sur un fond bleu futuriste" />
         <div>
           <h5>Quel développeur web pour un monde soutenable ?</h5>
           <p>
@@ -68,7 +68,7 @@
       </div>
 
       <div class="article">
-        <img src="images/article_4.webp" alt="description de la photo" />
+        <img src="images/article_4.webp" alt="ordinateur sur un bureau avec un pot de fleur" />
         <div>
           <h5>
             Le numérique permet-il de réduire nos impacts environnementaux ?
@@ -84,7 +84,7 @@
         </div>
       </div>
       <div class="article">
-        <img src="images/article_5.webp" alt="description de la photo" />
+        <img src="images/article_5.webp" alt="pipette et tubes à essai" />
         <div>
           <h5>
             L’Anthropocène, un concept pertinent pour penser notre temps ?
@@ -101,7 +101,7 @@
       </div>
 
       <div class="article">
-        <img src="images/article_6.webp" alt="description de la photo" />
+        <img src="images/article_6.webp" alt="souris d'ordinateur avec une terre en hologramme" />
         <div>
           <h5>Le numérique nous rend-il plus libre ?</h5>
           <p>
@@ -115,7 +115,7 @@
         </div>
       </div>
       <div class="article">
-        <img src="images/article_7.webp" alt="description de la photo" />
+        <img src="images/article_7.webp" alt="plante dans une carte mère" />
         <div>
           <h5>Quelles alternatives au numérique high-tech ?</h5>
           <p>
@@ -130,7 +130,7 @@
       </div>
 
       <div class="article">
-        <img src="images/article_8.webp" alt="description de la photo" />
+        <img src="images/article_8.webp" alt="personne qui travaille sur un ordinateur" />
         <div>
           <h5>Le logiciel libre : une voie d’émancipation ?</h5>
           <p>
@@ -144,7 +144,7 @@
         </div>
       </div>
       <div class="article">
-        <img src="images/article_9.webp" alt="description de la photo" />
+        <img src="images/article_9.webp" alt="smartphone vert ecologique" />
         <div>
           <h5>Fabrique du doute : pourquoi 50 ans d’inaction climatique ?</h5>
           <p>
@@ -159,7 +159,7 @@
       </div>
 
       <div class="article">
-        <img src="images/article_10.webp" alt="description de la photo" />
+        <img src="images/article_10.webp" alt="personnes connectées " />
         <div>
           <h5>On n’arrête pas le progrès. Vraiment ?</h5>
           <p>
