@@ -20,8 +20,17 @@
   <body>
     <?php require 'templates/header.php'; ?>
     <div class="wrapper">
-              <!-- Articles -->
+        <h2>Démarche technique</h2>
+              <!-- Démarche -->
+        <div class="article-contain">
+            <h3></h3>
+            <p>Tout d'abord, après avoir pris connaissance du code HTML, nous avons décidé de revoir la structure afin d'optimiser le SEO et le CSS. Nous voulions un design 
+                épuré et simple, qui mette en avant les articles. Cela favorisait l'accessibilité du site, et optimisait le parcours utilisateur, en diminuant le nombre d'étapes.
+                Notre premier but était de rendre avant tout le site accessible, et nous avons opté pour un développement en "Mobile First". En effet, on privilégiant cette approche
 
+            </p>
+
+        </div>
     </div>
 
     <!-- Footer -->
