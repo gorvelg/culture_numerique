@@ -39,8 +39,8 @@
                     Articles
                   </a>
                   <ul class="content">
-                    <li><a href="article.php">Le numérique nous rend-il plus intelligent ?</a></li>
-                    <li><a href="#">Le numérique permet-il de réduire nos impacts environnementaux ?</a></li>
+                    <li><a href="#">Le numérique nous rend-il plus intelligent ?</a></li>
+                    <li><a href="article.php">Le numérique permet-il de réduire nos impacts environnementaux ?</a></li>
                     <li><a href="#">...</a></li>
                   </ul>
                 </li>
