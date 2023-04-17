@@ -32,7 +32,7 @@
             mattis ante. Praesent rutrum nisl non mi vestibulum vulputate. Nulla
             facilisi.
           </p>
-          <a href="article.html">Voir l'article complet</a>
+          <a href="article.php">Voir l'article complet</a>
         </div>
       </div>
 
@@ -63,7 +63,7 @@
             mattis ante. Praesent rutrum nisl non mi vestibulum vulputate. Nulla
             facilisi.
           </p>
-          <a href="article.html">Voir l'article complet</a>
+          <a href="#">Voir l'article complet</a>
         </div>
       </div>
 
@@ -80,7 +80,7 @@
             mattis ante. Praesent rutrum nisl non mi vestibulum vulputate. Nulla
             facilisi.
           </p>
-          <a href="article.html">Voir l'article complet</a>
+          <a href="#">Voir l'article complet</a>
         </div>
       </div>
       <div class="article">
@@ -96,7 +96,7 @@
             mattis ante. Praesent rutrum nisl non mi vestibulum vulputate. Nulla
             facilisi.
           </p>
-          <a href="article.html">Voir l'article complet</a>
+          <a href="#">Voir l'article complet</a>
         </div>
       </div>
 
@@ -111,7 +111,7 @@
             mattis ante. Praesent rutrum nisl non mi vestibulum vulputate. Nulla
             facilisi.
           </p>
-          <a href="article.html">Voir l'article complet</a>
+          <a href="#">Voir l'article complet</a>
         </div>
       </div>
       <div class="article">
@@ -125,7 +125,7 @@
             mattis ante. Praesent rutrum nisl non mi vestibulum vulputate. Nulla
             facilisi.
           </p>
-          <a href="article.html">Voir l'article complet</a>
+          <a href="#">Voir l'article complet</a>
         </div>
       </div>
 
@@ -140,7 +140,7 @@
             mattis ante. Praesent rutrum nisl non mi vestibulum vulputate. Nulla
             facilisi.
           </p>
-          <a href="article.html">Voir l'article complet</a>
+          <a href="#">Voir l'article complet</a>
         </div>
       </div>
       <div class="article">
@@ -154,7 +154,7 @@
             mattis ante. Praesent rutrum nisl non mi vestibulum vulputate. Nulla
             facilisi.
           </p>
-          <a href="article.html">Voir l'article complet</a>
+          <a href="#">Voir l'article complet</a>
         </div>
       </div>
 
@@ -169,7 +169,7 @@
             mattis ante. Praesent rutrum nisl non mi vestibulum vulputate. Nulla
             facilisi.
           </p>
-          <a href="article.html">Voir l'article complet</a>
+          <a href="#">Voir l'article complet</a>
         </div>
       </div>
     </div>
