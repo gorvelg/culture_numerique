@@ -20,7 +20,7 @@ body {
 }
 .wrapper {
     margin:0 15% ;
-    padding-top: 110px;
+    padding-top: 150px;
 }
 a {
     padding: 10px;
@@ -84,6 +84,7 @@ ul {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
 .navbar-mobile .navbar-mobile-list a{
     font-size: 3rem;
@@ -130,6 +131,7 @@ ul {
     position: relative;
     margin: auto;
     border: none;
+    padding: 0;
 }
 .most-recent img{
     width: 100%;
