@@ -23,10 +23,7 @@
       <!-- Articles -->
       <div class="article-contain">
         <div class="article-header">
-          <img
-            src="images/article_1.webp"
-            alt="cerveau avec des circuits imprimés"
-          />
+          <img src="images/article_2.webp" alt="main ecologique et numérique" />
         </div>
         <h2>
           Le numérique permet-il de réduire nos impacts environnementaux ?

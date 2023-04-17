@@ -22,7 +22,7 @@
     <div class="wrapper">
       <!-- Articles -->
       <div class="article most-recent">
-        <img src="images/article_1.webp" alt="cerveau avec des circuits imprimés" />
+        <img src="images/article_2.webp" alt="main ecologique et numerique" />
         <div>
           <h5>Le numérique permet-il de réduire nos impacts environnementaux ?</h5>
           <p>
@@ -37,17 +37,17 @@
       </div>
 
       <div class="article">
-        <img src="images/article_2.webp" alt="main verte numérique" />
+        <img src="images/article_4.webp" alt="bureau avec pot de fleur et ordinateur" />
         <div>
           <h5>
-            Le numérique permet-il de réduire nos impacts environnementaux ?
+          Quel développeur web pour un monde soutenable ?
           </h5>
           <p>
-          Le numérique est devenu une part importante de nos vies. La plupart
-          des tâches que nous effectuons sont assistées par des outils
-          numériques. Son usage est devenu indispensable à la société, mais il
-          est également important de se demander
-          quel est son impact sur l'environnement...
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget
+            metus dignissim, ornare nisi sed, sollicitudin ex. Cras posuere
+            pellentesque sem, sit amet elementum nulla congue non. Quisque a
+            mattis ante. Praesent rutrum nisl non mi vestibulum vulputate. Nulla
+            facilisi.
           </p>
           <a href="article.php">Voir l'article complet</a>
         </div>
@@ -55,7 +55,7 @@
       <div class="article">
         <img src="images/article_3.webp" alt="robot sur un fond bleu futuriste" />
         <div>
-          <h5>Quel développeur web pour un monde soutenable ?</h5>
+          <h5>Quelles alternatives au numérique high-tech ?</h5>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget
             metus dignissim, ornare nisi sed, sollicitudin ex. Cras posuere
@@ -68,10 +68,10 @@
       </div>
 
       <div class="article">
-        <img src="images/article_4.webp" alt="ordinateur sur un bureau avec un pot de fleur" />
+        <img src="images/article_1.webp" alt="cerveau avec des circuits imprimés" />
         <div>
           <h5>
-            Le numérique permet-il de réduire nos impacts environnementaux ?
+            Le numérique nous rend-il plus intelligent ?
           </h5>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget
