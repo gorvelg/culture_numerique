@@ -154,7 +154,10 @@ ul {
 }
 
 /* article */
-div 
+.article-contain p {
+    text-align: justify;
+}
+
 /* footer */
 footer {
     display: flex;
