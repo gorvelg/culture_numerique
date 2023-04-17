@@ -34,7 +34,7 @@
                 <li>
                   <a href="index.php">Accueil</a>
                 </li>
-                <li> <!-- https://www.w3schools.com/howto/howto_js_collapsible.asp -->
+                <li>
                   <a class="collapsible" href="#" >
                     Articles
                   </a>

@@ -28,7 +28,6 @@
         <h2>
           Le numérique permet-il de réduire nos impacts environnementaux ?
         </h2>
-
         <p>
           Le numérique est devenu une part importante de nos vies. La plupart
           des tâches que nous effectuons sont assistées par des outils
@@ -48,13 +47,11 @@
           simple. Le numérique a le potentiel de réduire les dommages
           environnementaux, mais il peut également les aggraver.
         </p>
-
         <h3>
           Les bénéfices du numérique pour l'environnement : comment les
           technologies numériques peuvent aider à réduire l'impact
           environnemental.
         </h3>
-
         <p>
           D'un côté, le numérique peut contribuer à
           <b>réduire les répercussions écologiques</b>. Par exemple, la
@@ -67,7 +64,6 @@
           également réduire les émissions de gaz à effet de serre en optimisant
           les itinéraires et en <b>réduisant la congestion routière</b>.
         </p>
-
         <p>
           Il est donc important de prendre en compte
           <b>les effets négatifs sur l’environnement du numérique</b> dans nos
@@ -88,7 +84,6 @@
           pour <b>améliorer l'efficacité énergétique</b> et réduire les
           émissions de gaz à effet de serre.
         </p>
-
         <p>
           Bien que le numérique puisse offrir des
           <b>avantages environnementaux</b> tels que la réduction de
@@ -96,13 +91,11 @@
           il peut également avoir des <b>impacts négatifs</b>, notamment en
           termes de production et de gestion des déchets électroniques.
         </p>
-
         <h3>
           Les impacts environnementaux négatifs du numérique : comment la
           consommation d'énergie et les déchets électroniques peuvent nuire à
           l'environnement.
         </h3>
-
         <p>
           D'un autre côté, le numérique peut également contribuer à
           <b>augmenter les incidents environnementaux</b>. La production,
@@ -124,7 +117,6 @@
           “65%” des émissions totales de GES, ont atteint le record de “38,0
           GtCO2 en 2019”.
         </p>
-
         <p>
           La production d'appareils électroniques nécessite
           <b>l'extraction de matières premières</b>, telles que les métaux
@@ -133,7 +125,6 @@
           entraîner <b>la production de déchets toxiques</b>, notamment lors de
           la fabrication des puces électroniques.
         </p>
-
         <p>
           D’après Soraya Boudia (Professeure de Sociologie, Université de Paris)
           qui s'appuie sur le rapport de l'Organisation des Nations unies (ONU),
@@ -141,7 +132,6 @@
           <b>flux de déchets à la croissance la plus rapide au monde</b>, avec
           plus de 50 millions de tonnes produites chaque année.
         </p>
-
         <p>
           En plus de la production, la gestion des déchets électroniques est
           également un défi majeur. Beaucoup de ces déchets sont envoyés dans
@@ -153,17 +143,13 @@
           contaminer les sols et les eaux souterraines et
           <b>nuire à la santé humaine.</b>
         </p>
-        <p></p>
-
         <p>
           De plus, l'utilisation excessive des technologies de l'information
           peut encourager des comportements non durables, comme
           <b>l'achat en ligne et la livraison à domicile</b>, qui impliquent
           <b>des émissions liées au transport.</b>
         </p>
-
         <h3>Numérique et environnement : entre solutions et limites.</h3>
-
         <p>
           Heureusement, le numérique peut également
           <b>offrir des solutions pour la gestion des déchets électroniques</b>.
@@ -175,7 +161,6 @@
           leurs produits en proposant des <b>programmes de reprise</b> et de
           recyclage pour les appareils en fin de vie.
         </p>
-
         <p>
           En somme, le numérique peut avoir
           <b>des conséquences positives ou négatives</b> sur l'environnement,
@@ -184,7 +169,6 @@
           quotidiens, afin de <b>maximiser les avantages environnementaux</b> du
           numérique tout en <b>minimisant ses impacts négatifs</b>.
         </p>
-
         <p>
           Malgré cela, le numérique ne peut pas être considéré comme une
           solution unique pour réduire nos effets néfastes sur l’environnement.
@@ -195,7 +179,6 @@
           aider à atteindre ces objectifs,
           <b>mais il ne peut pas les remplacer.</b>
         </p>
-
         <p>
           Pour conclure, le numérique
           <b>peut offrir des avantages environnementaux</b> si
@@ -287,7 +270,6 @@
         </div>
       </div>
     </div>
-
     <!-- Footer -->
     <footer>
       <p>

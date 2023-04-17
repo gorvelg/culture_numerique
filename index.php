@@ -35,7 +35,6 @@
           <a href="article.php">Voir l'article complet</a>
         </div>
       </div>
-
       <div class="article">
         <img src="images/article_4.webp" alt="bureau avec pot de fleur et ordinateur" />
         <div>
@@ -66,7 +65,6 @@
           <a href="#">Voir l'article complet</a>
         </div>
       </div>
-
       <div class="article">
         <img src="images/article_1.webp" alt="cerveau avec des circuits imprimés" />
         <div>
@@ -99,7 +97,6 @@
           <a href="#">Voir l'article complet</a>
         </div>
       </div>
-
       <div class="article">
         <img src="images/article_6.webp" alt="souris d'ordinateur avec une terre en hologramme" />
         <div>
@@ -128,7 +125,6 @@
           <a href="#">Voir l'article complet</a>
         </div>
       </div>
-
       <div class="article">
         <img src="images/article_8.webp" alt="personne qui travaille sur un ordinateur" />
         <div>
@@ -157,7 +153,6 @@
           <a href="#">Voir l'article complet</a>
         </div>
       </div>
-
       <div class="article">
         <img src="images/article_10.webp" alt="personnes connectées " />
         <div>
@@ -173,7 +168,6 @@
         </div>
       </div>
     </div>
-
     <!-- Footer -->
     <footer>
       <p>
