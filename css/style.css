@@ -157,6 +157,9 @@ ul {
 .article-contain p {
     text-align: justify;
 }
+.article-contain li {
+    list-style: square;
+}
 
 /* footer */
 footer {
