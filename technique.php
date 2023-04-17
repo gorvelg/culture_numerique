@@ -33,6 +33,8 @@
             <p>Ensuite, pour minimiser les émissions de carbone, nous avons compressé et converti en .webp (un format optimisé pour le web) les images afin de réduire drastiquement leurs poids (certaines sont passées de 900 ko à 40 ko) et leur impact sur la bande passante.</p> 
             <h3>Un code épuré et compressé</h3>
             <p>Toujours dans le but de réduire l’impact environnemental et minimiser la quantité de données transférées lors des chargements de page, nous avons optimisé notre code HTML et créé des variables dans notre CSS afin d’éviter les répétitions. De plus, le code a été minimisé avec un outil qui permet de supprimer tous les caractères inutiles.</p>
+            <h3>Audit du site</h3>
+            <p>Nous avons utilisé différents outils et extensions afin de comprendre et corriger les possibles erreurs. Ainsi, grâce à LightHouse, Wave, GTmetrix et WebsiteCarbon, nous avons pu connaitre les performances, les normes d'accessibilité (WCAG, contraste...), les bonnes pratiques pour optimiser notre SEO ou encore notre empreinte carbone.</p>
             <div class="source">
             <h2>Sources</h2>
             <li><a href="https://github.com/cnumr/best-practices/tree/main/chapters">Best Practices - Dépot Github</a></li>
