@@ -19,7 +19,7 @@ body {
    font-family: 'Poppins', sans-serif;
 }
 .wrapper {
-    margin:0 10% ;
+    margin:0 15% ;
     padding-top: 110px;
 }
 a {
@@ -152,6 +152,9 @@ ul {
 .most-recent > div > a:hover {
     background-color: var(--button-secondary-hover);
 }
+
+/* article */
+div 
 /* footer */
 footer {
     display: flex;
@@ -233,7 +236,7 @@ footer {
     nav .active {
         display: block;
     }
-    /* article */
+    /* liste articles */
     .most-recent > div:hover {
         padding-bottom: 70px;
         transition: .5s;
