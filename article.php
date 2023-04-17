@@ -209,78 +209,79 @@
           déchets électroniques et le choix de produits électroniques
           respectueux de l'environnement.
         </p>
-
-        <h2>Sources</h2>
-        <ul>
-          <li>
-            <a
-              href="https://gauthierroussilhe.com/media/pages/ressources/que-peut-le-numerique-pour-la-transition-ecologique/739b60aef6-1659704444/NTE-Mars2021.pdf"
-              target="_blank"
-              >Que peut le numérique pour la transition écologique ? - Gauthier
-              Roussilhe
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://www.eco-conception.fr/data/sources/users/7/ademecontributiondunumeriquesynthese.pdf"
-              target="_blank"
-              >Potentiel de contribution du numérique à la réduction des impacts
-              environnementaux - ADEME</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://tubedu.org/w/eyLjAMxckMa2bhwLQx9R3g"
-              target="_blank"
-              >Le numérique face à la transition écologique - 4 - Soraya
-              Boudia</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://fr.wikipedia.org/wiki/Impact_environnemental_du_num%C3%A9rique"
-              target="_blank"
-              >Impact environnemental du numérique - Wikipédia</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://www.cairn.info/revue-responsabilite-et-environnement-2017-3-page-72.html"
-              target="_blank"
-              >Numérique et écologie - Françoise Berthoud</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://www.ecologie.gouv.fr/numerique-responsable"
-              target="_blank"
-              >Le numérique responsable - Ministère de la Transition
-              écologique</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://fr.wikipedia.org/wiki/Technologies_de_l%27information_et_de_la_communication"
-              target="_blank"
-              >Technologie de l'information et de la communication -
-              Wikipédia</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://www.wwf.fr/agir-au-quotidien/numerique"
-              target="_blank"
-              >Apprendre à réduire son empreinte numérique - WWF</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://expertises.ademe.fr/economie-circulaire/consommer-autrement/elements-contexte/impacts-environnementaux"
-              target="_blank"
-              >Les impacts environnementaux - ADEME</a
-            >
-          </li>
-        </ul>
+        <div class="source">
+          <h2>Sources</h2>
+          <ul>
+            <li>
+              <a
+                href="https://gauthierroussilhe.com/media/pages/ressources/que-peut-le-numerique-pour-la-transition-ecologique/739b60aef6-1659704444/NTE-Mars2021.pdf"
+                target="_blank"
+                >Que peut le numérique pour la transition écologique ? -
+                Gauthier Roussilhe
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.eco-conception.fr/data/sources/users/7/ademecontributiondunumeriquesynthese.pdf"
+                target="_blank"
+                >Potentiel de contribution du numérique à la réduction des
+                impacts environnementaux - ADEME</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://tubedu.org/w/eyLjAMxckMa2bhwLQx9R3g"
+                target="_blank"
+                >Le numérique face à la transition écologique - 4 - Soraya
+                Boudia</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://fr.wikipedia.org/wiki/Impact_environnemental_du_num%C3%A9rique"
+                target="_blank"
+                >Impact environnemental du numérique - Wikipédia</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.cairn.info/revue-responsabilite-et-environnement-2017-3-page-72.html"
+                target="_blank"
+                >Numérique et écologie - Françoise Berthoud</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.ecologie.gouv.fr/numerique-responsable"
+                target="_blank"
+                >Le numérique responsable - Ministère de la Transition
+                écologique</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://fr.wikipedia.org/wiki/Technologies_de_l%27information_et_de_la_communication"
+                target="_blank"
+                >Technologie de l'information et de la communication -
+                Wikipédia</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.wwf.fr/agir-au-quotidien/numerique"
+                target="_blank"
+                >Apprendre à réduire son empreinte numérique - WWF</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://expertises.ademe.fr/economie-circulaire/consommer-autrement/elements-contexte/impacts-environnementaux"
+                target="_blank"
+                >Les impacts environnementaux - ADEME</a
+              >
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
 
