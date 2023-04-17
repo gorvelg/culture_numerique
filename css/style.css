@@ -138,12 +138,14 @@ ul {
 }
 .most-recent > div {
     position: absolute;
+    top: 0;
     bottom: 0;
     text-align: center;
     color: var(--text-white);
     background-color: rgb(0 0 0 / 55%);
-    padding: 40px;
+    padding: 20px;
 }
+
 
 .most-recent > div > a {
     background-color: var(--button-secondary);
@@ -252,6 +254,12 @@ footer {
         display: block;
     }
     /* liste articles */
+
+
+    .most-recent > div{
+        top: initial;
+        padding:40px;
+    }
     .most-recent > div:hover {
         padding-bottom: 70px;
         transition: .5s;
