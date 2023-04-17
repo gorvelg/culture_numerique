@@ -22,6 +22,12 @@
     <div class="wrapper">
       <!-- Articles -->
       <div class="article-contain">
+        <div class="article-header">
+          <img
+            src="images/article_1.webp"
+            alt="cerveau avec des circuits imprimés"
+          />
+        </div>
         <h2>
           Le numérique permet-il de réduire nos impacts environnementaux ?
         </h2>
