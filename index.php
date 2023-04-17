@@ -24,13 +24,13 @@
       <div class="article most-recent">
         <img src="images/article_1.webp" alt="cerveau avec des circuits imprimés" />
         <div>
-          <h5>Le numérique nous rend-il plus intelligent ?</h5>
+          <h5>Le numérique permet-il de réduire nos impacts environnementaux ?</h5>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget
-            metus dignissim, ornare nisi sed, sollicitudin ex. Cras posuere
-            pellentesque sem, sit amet elementum nulla congue non. Quisque a
-            mattis ante. Praesent rutrum nisl non mi vestibulum vulputate. Nulla
-            facilisi.
+          Le numérique est devenu une part importante de nos vies. La plupart
+          des tâches que nous effectuons sont assistées par des outils
+          numériques. Son usage est devenu indispensable à la société, mais il
+          est également important de se demander
+          quel est son impact sur l'environnement...
           </p>
           <a href="article.php">Voir l'article complet</a>
         </div>
@@ -43,11 +43,11 @@
             Le numérique permet-il de réduire nos impacts environnementaux ?
           </h5>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget
-            metus dignissim, ornare nisi sed, sollicitudin ex. Cras posuere
-            pellentesque sem, sit amet elementum nulla congue non. Quisque a
-            mattis ante. Praesent rutrum nisl non mi vestibulum vulputate. Nulla
-            facilisi.
+          Le numérique est devenu une part importante de nos vies. La plupart
+          des tâches que nous effectuons sont assistées par des outils
+          numériques. Son usage est devenu indispensable à la société, mais il
+          est également important de se demander
+          quel est son impact sur l'environnement...
           </p>
           <a href="article.php">Voir l'article complet</a>
         </div>
